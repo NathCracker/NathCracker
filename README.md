@@ -22,7 +22,7 @@ I'm a second year college student major in electronics engineering that likes to
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey </h3></summary>
-   I started coding in the age of 14 by making my very first roblox game. It really piqued my interest on creating systems by typing in the computer. I love coding as it helps me understand how things work and it widens up my imagination. I then started learning HTML, CSS and Javascript the summer of 2018. I created two web applications for my school project. These 2 are fully working hotel management system and restaurant delivery system. I will make a repository soon once i found the files. Im currently studying python and react JS as of right now and plans on taking the google certification exam. 
+  I began coding at the age of 14 when I created my first roblox game. It piqued my interest in creating systems by typing them into a computer. I enjoy coding because it helps me understand how things work and expands my imagination. In the summer of 2018, I began learning HTML, CSS, and Javascript. For my school project, I built two web applications. These two are fully functional hotel management systems and restaurant delivery systems. I'll create a repository as soon as I find the files. I am currently studying Python and React JS and intend to take the Google certification exam.
   
 <!--
 **NathCracker/NathCracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
