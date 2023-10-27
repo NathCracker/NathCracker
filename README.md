@@ -2,7 +2,7 @@
 
 **`Electronics Engineering Student and Programming Enthusiast`**
 
-I'm a second year college student major in electronics engineering that likes to code and make stuffs to pastime. I want to be a software developer in the near future and work on tech. My account will be used for my portfolio and documentation of my works to be used in the near future. 
+I'm a third year college student major in electronics engineering that likes to code and make stuffs to pastime. I want to be a software developer in the near future and work on tech. My account will be used for my portfolio and documentation of my works to be used in the near future. 
 
 ---
 
