@@ -38,7 +38,7 @@ I bridge the gap between complex engineering and seamless business operations. B
 
 - 🛡️ **VeriJob:** A full-stack security platform engineered to detect and neutralize fraudulent job links in real-time. Focuses on event-driven architecture and robust URL validation.
 - 🏢 **AMA ACLC Northbay Enrollment:** An end-to-end institutional enrollment management system providing real-time, actionable analytics to administrators.
-- 📡 **Velociraptor ISP Logistics:** A mission-critical platform that digitizes the provisioning workflow for ISP customers, streamlining lead intake and technician routing.
+- 📡 **Velociraptor ISP Logistics:** A mission-critical platform that digitizes the provisioning workflow for ISP customers, streamlining lead intake, technician routing and dispatch management.
 - ⚔️ **GuildBase:** A performance-first web application designed for scalable data handling and reliable state management.
 
 ## 📈 GitHub Stats
