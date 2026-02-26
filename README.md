@@ -11,6 +11,7 @@ I bridge the gap between complex engineering and seamless business operations. B
 - 🤝 Providing Technical Virtual Assistance to optimize business operations
 - 🚀 Building highly interactive, performance-first applications with Next.js and TypeScript
 - 👕 Designing concepts for my upcoming streetwear brand
+- 🛠 Building my very first SaaS
 
 ## 💻 Tech Stack & Tools
 
