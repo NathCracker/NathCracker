@@ -1,87 +1,84 @@
-# Hi there, I'm NathCracker! 👋⚡
+# Hi there, I'm Nathaniel Faa (NathCracker)! 👋⚡
 
-**Electronics Engineering Student | Aspiring Software Developer | Code Enthusiast**
+**Full-Stack Engineer | Technical Consultant | Systems Optimizer**
 
-I'm a third-year Electronics Engineering student with a passion for programming and building innovative solutions. Currently exploring the intersection of hardware and software while preparing for a career in tech development.
+I bridge the gap between complex engineering and seamless business operations. Based in Manila, Philippines, I specialize in architecting secure web platforms, enterprise logistics systems, and providing technical virtual assistance to streamline digital workflows. 
 
 ## 🚀 What I'm Up To
 
-- 🎓 Pursuing Electronics Engineering degree
-- 💻 Building full-stack web applications
-- 🐍 Mastering Python and React.js
-- 📚 Preparing for Google Developer Certification
-- 🔧 Creating projects to bridge hardware and software
+- 💻 Engineering comprehensive data systems and proactive security platforms
+- ⚙️ Digitizing enterprise logistics and operational workflows
+- 🤝 Providing Technical Virtual Assistance to optimize business operations
+- 🚀 Building highly interactive, performance-first applications with Next.js and TypeScript
+- 👕 Designing concepts for my upcoming streetwear brand
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
-**Languages:**
+**Core Engineering:**
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
-**Frameworks & Tools:**
+**Workflow & Automation:**
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
 </p>
+*Plus: Microsoft Power Platform, Notion Workspace Architecture, and Shopify Administration.*
 
-## 🏗️ Featured Projects
+## 🏗️ Featured Architecture & Projects
 
-**Hotel Management System** - Full-stack web application for hotel operations
-**Restaurant Delivery System** - Complete delivery management solution
-
-*More repositories coming soon as I organize and upload my project files!*
+- 🛡️ **VeriJob:** A full-stack security platform engineered to detect and neutralize fraudulent job links in real-time. Focuses on event-driven architecture and robust URL validation.
+- 🏢 **AMA ACLC Northbay Enrollment:** An end-to-end institutional enrollment management system providing real-time, actionable analytics to administrators.
+- 📡 **Velociraptor ISP Logistics:** A mission-critical platform that digitizes the provisioning workflow for ISP customers, streamlining lead intake and technician routing.
+- ⚔️ **GuildBase:** A performance-first web application designed for scalable data handling and reliable state management.
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NathCracker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathCracker&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathCracker&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=NathCracker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
-- [ ] Complete Google Developer Certification
-- [ ] Build 5+ portfolio-worthy projects
-- [ ] Contribute to open-source projects
-- [ ] Land my first software development internship
-- [ ] Master React.js and modern web development
+- [ ] Scale my freelance Technical Virtual Assistance consulting
+- [ ] Deploy 3+ enterprise-grade workflow automation systems
+- [ ] Deepen expertise in high-volume data management and Next.js server actions
+- [ ] Launch the first collection for my Y2K-aesthetic streetwear brand
+- [ ] Build out more automated AI content generation pipelines
 
 <details>
 <summary><h3>🌱 My Coding Journey</h3></summary>
 
-My programming adventure began at 14 when I created my first Roblox game, sparking my fascination with bringing ideas to life through code. What started as curiosity evolved into a genuine passion for understanding how systems work and pushing the boundaries of what's possible.
+My programming adventure began at 14 when I created my first Roblox game (*Granny*), sparking a lifelong fascination with bringing ideas to life through code. 
 
-In summer 2018, I dove into web development, learning HTML, CSS, and JavaScript. This foundation led me to create two comprehensive applications: a hotel management system and a restaurant delivery system - both fully functional and solving real-world problems.
+While I spent time studying Electronics Engineering and understanding how systems work at a hardware level, I found my true calling in building scalable web applications and operational workflows. This realization led me to pivot fully into tech consulting, freelance full-stack development, and technical virtual assistance. 
 
-Today, I'm expanding my expertise with Python and React.js while preparing for industry certifications. My goal is to bridge my electronics engineering background with software development, creating innovative solutions that impact how we interact with technology.
+Today, I leverage modern frameworks like Next.js and TypeScript to build solutions that bridge the gap between complex engineering and seamless business operations.
 
-**Why I code:** It's not just about writing programs - it's about solving problems, expanding possibilities, and building the future one line at a time.
+**Why I code:** It's not just about writing programs—it's about automating the mundane, protecting users, and building digital infrastructure that scales.
 
 </details>
 
 ## 📫 Let's Connect!
 
-- 💼 Portfolio: [Portfolio](https://nathcracker.github.io./portfolio](https://nathaniel-faa.vercel.app/))
-- 📧 Email: [nathaniel.v.faa@gmail.com](mailto:nathanel.v.faa@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/nathaniel-cracker](https://www.linkedin.com/in/nathaniel-faa-874a02211/)
+- 💼 **Portfolio:** [nathaniel-faa.vercel.app](https://nathaniel-faa.vercel.app/)
+- 📧 **Email:** [nathaniel.v.faa@gmail.com](mailto:nathaniel.v.faa@gmail.com)
+- 🌐 **LinkedIn:** [linkedin.com/in/nathaniel-faa](https://www.linkedin.com/in/nathaniel-faa-874a02211/)
 
 ---
 
 <div align="center">
-  <i>"Building tomorrow's solutions with today's code"</i>
+  <i>"Bridging the gap between complex engineering and seamless business operations."</i>
 </div>
-
-<!--
-**NathCracker/NathCracker** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
