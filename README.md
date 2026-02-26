@@ -72,8 +72,8 @@ Today, I'm expanding my expertise with Python and React.js while preparing for i
 
 ## 📫 Let's Connect!
 
-- 💼 Portfolio: [Portfolio](https://nathcracker.github.io./portfolio)
-- 📧 Email: [faa.v.nathaniel@gmail.com](mailto:faa.v.nathaniel@gmail.com)
+- 💼 Portfolio: [Portfolio](https://nathcracker.github.io./portfolio](https://nathaniel-faa.vercel.app/))
+- 📧 Email: [nathaniel.v.faa@gmail.com](mailto:nathanel.v.faa@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/nathaniel-cracker](https://www.linkedin.com/in/nathaniel-faa-874a02211/)
 
 ---
